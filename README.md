@@ -18,7 +18,7 @@ Whether you're a student aiming to register classes with a few clicks or an admi
 - **User-friendly interface** for both students and admins
 - **Robust course and student management** in one place
 - **Efficient registration workflow**, minimizing the common headaches of scheduling conflicts and data mismanagement
-- Clear, maintainable codebase — perfect for learning, scaling, or contributing
+- **Clear, maintainable codebase** — perfect for learning, scaling, or contributing
 
 ***
 
@@ -66,3 +66,4 @@ Have questions, ideas, or feedback? Feel free to open an issue or reach out dire
 Let’s build a smarter academic future—together.
 
 ***
+
